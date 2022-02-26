@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+This is the source code for Zhiyuan Wang's public academic website. Its design is just a modification of Jon Barron's website and is converted for my own use. The original version can be referred in https://jonbarron.info/.
